@@ -1,8 +1,1 @@
-red
-purple
-orange
-green
-yellow
-unicorn
-added Ram
-these are the colour of rainbow
+This is my Github test using VScode!
